@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Membership",
+    "price": 29.99,
+    "features": [
+      "Access to cardio and weightlifting areas",
+      "Locker room access",
+      "Group fitness classes"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Silver Membership",
+    "price": 49.99,
+    "features": [
+      "All features of Basic Membership",
+      "Access to swimming pool",
+      "Sauna and steam room access"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Gold Membership",
+    "price": 79.99,
+    "features": [
+      "All features of Silver Membership",
+      "Personal training sessions (2/month)",
+      "Towel service"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Platinum Membership",
+    "price": 99.99,
+    "features": [
+      "All features of Gold Membership",
+      "Unlimited personal training sessions",
+      "Nutritional consultation"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Student Membership",
+    "price": 24.99,
+    "features": [
+      "Access to cardio and weightlifting areas",
+      "Locker room access",
+      "Valid student ID required"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Family Membership",
+    "price": 119.99,
+    "features": [
+      "Access for two adults and two children",
+      "Access to all facilities",
+      "Family-friendly classes"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Senior Membership",
+    "price": 39.99,
+    "features": [
+      "Access to cardio and weightlifting areas",
+      "Senior citizen discount",
+      "Group fitness classes"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Corporate Membership",
+    "price": 69.99,
+    "features": [
+      "Discounted rates for company employees",
+      "Access to all facilities",
+      "Monthly fitness challenges"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Couple's Membership",
+    "price": 89.99,
+    "features": [
+      "Access for two individuals",
+      "Access to swimming pool",
+      "Couple's fitness classes"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Premium Membership",
+    "price": 129.99,
+    "features": [
+      "All features of Platinum Membership",
+      "Unlimited personal training sessions",
+      "Priority class booking"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Weekend Warrior Membership",
+    "price": 34.99,
+    "features": [
+      "Access on weekends only",
+      "Access to cardio and weightlifting areas",
+      "Weekend group fitness classes"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Yoga and Pilates Membership",
+    "price": 59.99,
+    "features": [
+      "Access to yoga and pilates studios",
+      "Access to relaxation areas",
+      "Specialized classes"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "One-Year Prepaid Membership",
+    "price": 299.99,
+    "features": [
+      "Access to all facilities for one year",
+      "One-time payment discount",
+      "Guest pass included"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Corporate Executive Membership",
+    "price": 99.99,
+    "features": [
+      "Corporate membership with executive benefits",
+      "Access to VIP areas",
+      "Executive fitness classes"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Early Bird Membership",
+    "price": 39.99,
+    "features": [
+      "Access during early morning hours",
+      "Access to cardio and weightlifting areas",
+      "Morning group fitness classes"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Month-to-Month Membership",
+    "price": 59.99,
+    "features": [
+      "Flexible month-to-month billing",
+      "Access to all facilities",
+      "No long-term commitment"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Gym and Spa Membership",
+    "price": 69.99,
+    "features": [
+      "Access to gym and spa facilities",
+      "Sauna, steam room, and hot tub access",
+      "Spa treatments available"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Cycling Membership",
+    "price": 44.99,
+    "features": [
+      "Access to cycling studio",
+      "Cycling classes and programs",
+      "Indoor cycling events"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Dance Fitness Membership",
+    "price": 49.99,
+    "features": [
+      "Access to dance fitness classes",
+      "Dance party nights",
+      "Dance instructors"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "CrossFit Membership",
+    "price": 79.99,
+    "features": [
+      "Access to CrossFit training area",
+      "CrossFit classes and workshops",
+      "Personal CrossFit coach"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Martial Arts Membership",
+    "price": 69.99,
+    "features": [
+      "Access to martial arts studio",
+      "Martial arts classes and self-defense training",
+      "Belt testing and certification"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Spinning Membership",
+    "price": 39.99,
+    "features": [
+      "Access to spinning studio",
+      "Spinning classes and challenges",
+      "Indoor cycling events"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Boot Camp Membership",
+    "price": 59.99,
+    "features": [
+      "Access to boot camp training area",
+      "Boot camp classes and challenges",
+      "Certified boot camp instructors"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Powerlifting Membership",
+    "price": 59.99,
+    "features": [
+      "Access to powerlifting area",
+      "Powerlifting coaching and workshops",
+      "Powerlifting competitions"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Meditation Membership",
+    "price": 29.99,
+    "features": [
+      "Access to meditation and relaxation areas",
+      "Guided meditation sessions",
+      "Mindfulness workshops"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Family Swim Membership",
+    "price": 69.99,
+    "features": [
+      "Access for two adults and two children",
+      "Access to swimming pool",
+      "Family-friendly classes"
+    ]
+  }
+]
